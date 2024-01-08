@@ -1,4 +1,4 @@
-package Model;
+package com.externalapi.Model;
 
 public class Film {
     private String title;
